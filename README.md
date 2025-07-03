@@ -75,7 +75,7 @@ h1 {
 <body>
   <section class="container">
     <h1>Vault of Codes Internship 2025</h1>
-    <p class="tagline">2-month virtual internship | Apply by 7 June 2025</p>
+    <p class="tagline">2-month virtual internship | Apply by any date</p>
 
     <div class="cards">
       <div class="card">
